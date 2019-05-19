@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "542261302511",
+    "firebase_url": "https://taxiapp-102c8.firebaseio.com",
+    "project_id": "taxiapp-102c8",
+    "storage_bucket": "taxiapp-102c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542261302511:android:4d74117f3d49f5db",
+        "android_client_info": {
+          "package_name": "com.tuyenln.fl_uberapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542261302511-2r4l1jn6aamt8oooddfkkld2ho35hq6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQh1RRZPEHUNUu5nl3_8JDgaHnO53DhTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542261302511-2r4l1jn6aamt8oooddfkkld2ho35hq6r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "542261302511-8he4dg3ia43plr12i5tp3d2796s8phve.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tuyenln.flUberapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

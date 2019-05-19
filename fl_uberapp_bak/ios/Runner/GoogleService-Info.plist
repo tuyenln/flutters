@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>542261302511-8he4dg3ia43plr12i5tp3d2796s8phve.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.542261302511-8he4dg3ia43plr12i5tp3d2796s8phve</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAeIYcHZ2AcoLz4W0gWLBmksNM70jymCpA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>542261302511</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.tuyenln.flUberapp</string>
+	<key>PROJECT_ID</key>
+	<string>taxiapp-102c8</string>
+	<key>STORAGE_BUCKET</key>
+	<string>taxiapp-102c8.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:542261302511:ios:7a1a81562d90365a</string>
+	<key>DATABASE_URL</key>
+	<string>https://taxiapp-102c8.firebaseio.com</string>
+</dict>
+</plist>
